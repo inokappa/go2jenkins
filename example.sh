@@ -3,4 +3,4 @@
 date
 echo "Hello Jenkins."
 sleep 10
-ate
+date
